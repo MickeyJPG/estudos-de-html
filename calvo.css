@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://static.gazetaesportiva.com/uploads/51194789867_72ca196536_o.jpg");
+    background-size: cover;
+  }
+  
+.fonte {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color: white;
+    text-align:center;
+}
